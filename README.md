@@ -12,21 +12,22 @@ Tabla de Contenido [Información General] Titulo Proyecto Estado del Proyecto Ve
 
 Información General
 
-Titulo Proyecto: BEMER
-Estado del Proyecto: En Desarrollo
-Versión: 1.0
-Descripción: Bemer se crea con la intensión de enseñar a programar a niños, enfocado en el aprendizaje para que desde pequeños desarrollen la lógica necesaria para que adquieran el conocimiento y el gusto por programar y desarrollar aplicaciones, paginas web y programas para el mundo.
-Desarrolladores: Andres González y David Gómez
-Contacto: dagomezm10@poligran.edu.co // afgonzales@poligran.edu.co
+1. Titulo Proyecto: BEMER
+2. Estado del Proyecto: En Desarrollo
+3. Versión: 1.0
+4. Descripción: Bemer se crea con la intensión de enseñar a programar a niños, enfocado en el aprendizaje para que desde pequeños desarrollen la lógica necesaria para que adquieran el conocimiento y el gusto por programar y desarrollar aplicaciones, paginas web y programas para el mundo.
+5. Desarrolladores: Andres González y David Gómez
+6. Contacto: dagomezm10@poligran.edu.co // afgonzales@poligran.edu.co
+
 Tecnologias
 
-Lenguaje: HTML 5, CSS
+1. Lenguaje: HTML 5, CSS
+
 Instalación
 
-Crear directorio del proyecto de forma local
-
-navegar al directorio desde consola cd /path/to/the/file
-git clone https://github.com/PolitecnicoBemer/Bemer
-Crear entorno desde cmder 
-Activar entorno venv\Scripts\activate.bat
-Instalar librerias desde archivo pip install -r requirements.txt
+1. Crear directorio del proyecto de forma local
+2. navegar al directorio desde consola cd /path/to/the/file
+3. git clone https://github.com/PolitecnicoBemer/Bemer
+4. Crear entorno desde cmder 
+5. Activar entorno venv\Scripts\activate.bat
+6. Instalar librerias desde archivo pip install -r requirements.txt
