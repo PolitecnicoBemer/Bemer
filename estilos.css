@@ -1,3 +1,14 @@
+/*
+CABECERA
+MENU
+CUERPO
+ICONOS
+BIENVENIDOS
+PARA
+Contactenos
+piedepagina
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 p,
 a,
@@ -8,7 +19,7 @@ h3 {
 }
 
 
-/*PARTE DE CABECERA*/
+/* ESTA ES LA CABECERA*/
 
 .cabecera {
     overflow: hidden;
@@ -23,17 +34,17 @@ h3 {
 .cabecera h1 {
     text-align: center;
     font-size: 28px;
-    color: black;
+    color: #F69F2C;
 }
 
 .cabecera h3 {
     font-size: 25px;
     text-align: center;
-    color: blue;
+    color: dodgerblue;
 }
 
 
-/*MENU*/
+/* AQUI COMIENZA EL MENU*/
 
 .menu {
     background: #333;
@@ -56,7 +67,7 @@ h3 {
 }
 
 
-/* CUERPO */
+/* AQUI COMIENZA EL CUERPO */
 
 .slider {
     width: 100%;
@@ -147,54 +158,4 @@ h3 {
     text-align: center;
     padding: 5px;
     font-size: 14px;
-}
-
-
-/* CLASE NOSOTROS*/
-
-.quienes h1 {
-    font-size: 25px;
-    text-align: center;
-}
-
-.quienes p {
-    background: #999;
-    padding: 20px;
-    text-align: center;
-}
-
-.andres h3 {
-    font-size: 25px;
-    text-align: center;
-}
-
-.andres img {
-    display: block;
-    margin: auto;
-}
-
-.david h3 {
-    font-size: 25px;
-    text-align: center;
-}
-
-.david img {
-    display: block;
-    margin: auto;
-}
-
-
-/* CLASE DOCUMENTACION */
-
-.documentacion h1 {
-    font-size: 25px;
-    text-align: center;
-}
-
-
-/* CLASE LENGUAJES*/
-
-.lenguajes h1 {
-    font-size: 25px;
-    text-align: center;
 }
